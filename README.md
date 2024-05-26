@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning a LOT of new and exciting things
 - 💞️ I’m looking to turn in my first homework assignment
-- 📫 How to reach me (586)382-5486
+-
 
 <!---
 SelenaPasseno/SelenaPasseno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
